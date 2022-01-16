@@ -5,8 +5,8 @@ const Header = () => {
   return (
     <div className="header max-width">
       <img
-        src="https://scontent.fidr4-2.fna.fbcdn.net/v/t1.6435-9/78529864_511816032747820_5472546444076384256_n.png?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=aFiFxUGmjIwAX86aMFP&_nc_ht=scontent.fidr4-2.fna&oh=00_AT81jhnyVCXKp3M0EwlwDx3T1CEaIciM4UA859qwOyoL_g&oe=61EE254D"
-        alt="Easymeals-logo"
+        src="https://b.zmtcdn.com/web_assets/b40b97e677bc7b2ca77c58c61db266fe1603954218.png"
+        alt="zomato-logo"
         className="header-logo"
       />
       <div className="header-right">
